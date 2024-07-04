@@ -1,4 +1,3 @@
-# Obfuscated with PyObfuscate
 # https://wa.me/+916268781574
 # Time : Thu Jul  4 15:56:05 2024
 # -------------------------
